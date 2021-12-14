@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 2021.03 ~ : TVPLUS / Server
 - 2020.11 ~ : Samsung Podcast / Server
-- 2020.06 ~ : Samsung Media Launcher / Server
+- 2020.06 ~ 2021.02 : Samsung Media Launcher / Server
 - 2020.01 ~ : Samsung Members / Server
 - 2019.04 ~ 2020.01 : Game Launcher / Server
 - 2016.07 ~ 2017.05 : Marshmallow / Server
