@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 -->
 
 ## My works
-Samsung Server Engineer in Mobile Experience division
+Samsung Server Engineer in Mobile Experience division. 
+
 Server, Spring boot, batch, Vue, MySql, Redis, AWS etc.
 
 * Server (2015.03 ~ )
