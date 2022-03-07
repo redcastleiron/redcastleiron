@@ -22,7 +22,7 @@ Samsung Server Engineer in Mobile Experience division.
 
 Server, Spring boot, batch, Vue, MySql, Redis, AWS etc.
 
-* Server (2015.03 ~ )
+* Server (2015.03 ~ ) for Android Samsung Galaxy devices
 - 2021.03 ~ : Samsung TVPLUS / Frontend, Backend Server
 - 2020.11 ~ : Samsung Podcast / Backend Server
 - 2020.06 ~ : Samsung Media Launcher / Backend Server
