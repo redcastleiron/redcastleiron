@@ -1,25 +1,6 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongcheolHong%2FSeongcheolHong)](https://hits.seeyoufarm.com)
-
-Hi,I'm Seongcheol. I'm working as a software engineer at Samsung.
-
-<!--
-**SeongcheolHong/SeongcheolHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm working as a Principal Server Engineer at Mobile Experience division of Samsung Electronic.
 
 ## My works
-Samsung Server Engineer in Mobile Experience division. 
-
 Server, Spring boot, batch, Vue, MySql, Redis, AWS etc.
 
 * Server (2015.03 ~ ) for Samsung service
@@ -37,4 +18,3 @@ Server, Spring boot, batch, Vue, MySql, Redis, AWS etc.
   - 2006.12 ~ 2012.03 : Samsung feature & smart phone / SHP & bada platform / Call Application (Voice Call, SS) / Basic Application
 
 ## Get in touch
-
